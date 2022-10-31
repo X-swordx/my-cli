@@ -4,7 +4,7 @@
   "description": "个人项目通用脚手架（vue2）",
   "main": "index.js",
   "bin": {
-    "my-cli": "bin/create-project"
+    "create-project": "./bin/create-project"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
